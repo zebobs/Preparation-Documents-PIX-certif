@@ -13,7 +13,7 @@
 - Le fichier consignessurveillants.html contient les consignes pour les surveillants. C'est un fichier contenant des bouts de html basique. Il est peut être modifié. Il doit être présent dans le même répertoire
 
 ## Fonctionnement
-- Lancer le programme python exploitation-auto-pix-orga.py puis renseigner vos identifiants pix-orga.
+- Lancer le programme python exploitation_auto_pix_certif.py puis renseigner vos identifiants pix-certif qui sont les mêmes que ceux de pix-orga.
 - Répondez aux quelques questions : 
   - Le code pour les non certifiables
   - Format (A4/A3). Préférez le format A3. Attention les consignes fournies sont longues et correspondent au format A3.
