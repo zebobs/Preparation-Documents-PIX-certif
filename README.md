@@ -34,3 +34,8 @@ Les bibliothèques requises sont les mêmes que celle de exploitation_auto_pix_o
 
 ## Licence
 Ce projet est sous licence GPL v3
+
+## Exemples
+4 pochettes obtenues en imprimant en A3 Recto-Verso.
+          
+![Pochettes A3 page de garde](Pochette%20A3%20page%20de%20garde.jpg)
