@@ -16,10 +16,10 @@
 - Lancer le programme python exploitation_auto_pix_certif.py puis renseigner vos identifiants pix-certif qui sont les mêmes que ceux de pix-orga.
 - Répondez aux quelques questions : 
   - Le code pour les non certifiables
-  - Format (A4/A3). Préférez le format A3. Attention les consignes fournies sont longues et correspondent au format A3.
+  - Le choix entre lycée et collège permet de faire imprimer les codes surveillants utiles dès mars 2022 en collège avec les instructions adaptées.
   - Création d'une page de garde par session. Si la page de garde n'est pas créée, les codes sont fournis sur la liste d'amrgements.
-  - Remarque : En tapant sur Entrée directement le format par défaut est A3 avec page de garde.
-- Si vous avez demandé un A3 avec page de garde, imprimez en recto verso sur du papier A3 pour obtenir une pochette.
+- La liste d'émargement obtenu peut être imprimé en A3 ou en A4. En A3 avec page de garde, on obtient une pochette pouvant contenir le PV d'inciden et le document à distribuer aux élèves.
+
 
 ## Tests
 - Le programme est utilisé pour une structure d'une centaine de classes.
